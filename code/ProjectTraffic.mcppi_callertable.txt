@@ -1,0 +1,9 @@
+main
+	__CC2DW
+		____DoICP
+	automatic_mode
+		counter
+			Div_8X8_S
+	manual_mode
+		counter
+			Div_8X8_S
